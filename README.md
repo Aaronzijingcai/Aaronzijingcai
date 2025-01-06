@@ -14,18 +14,13 @@
 - 💬 Ask me about **LLM & Finance**
 - 📄 I will add a personal CV page later
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
-- 1
-- 2
-- 3
 
 
 
-<a href="https://github.com/Aaronzijingcai">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Aaronzijingcai&theme=buefy&show_icons=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaronzijingcai&theme=buefy&layout=compact" />
-</a>
-
-
+<p align="center">
+   <a href="https://github.com/Aaronzijingcai"><img height="165em" src="https://github-readme-stats.vercel.app/api?username=Aaronzijingcai&theme=buefy&show_icons=true" />
+    <a href="aaron.zijingcai@gmail.com"> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaronzijingcai&theme=buefy&layout=compact" /
+</p>
 
 <h3> 📫 How to reach me: </h3>&nbsp;
 
