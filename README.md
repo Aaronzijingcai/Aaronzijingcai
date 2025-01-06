@@ -8,19 +8,24 @@
 
 
 
-<div style="display: flex; align-items: center; justify-content: center; margin: 20px;">
-  <div>
-    <ul>
-      <li>💻 I just graduated from ZJGSU</li>
-      <li>👨‍💻 My research interests span information retrieval, data mining, and artificial general intelligence</li>
-      <li>😁 Check out my <a href="https://aaronzijingcai.github.io/">personal web</a></li>
-      <li>💬 Ask me about <strong>LLM & Finance</strong></li>
-      <li>📄 I will add a personal CV page later</li>
-      <li>🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"</li>
-    </ul>
-  </div>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto; margin-left: 20px;">
-</div>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>💻 I just graduated from ZJGSU</li>
+        <li>👨‍💻 My research interests span information retrieval, data mining, and artificial general intelligence</li>
+        <li>😁 Check out my <a href="https://aaronzijingcai.github.io/">personal web</a></li>
+        <li>💬 Ask me about <strong>LLM & Finance</strong></li>
+        <li>📄 I will add a personal CV page later</li>
+        <li>🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto;">
+    </td>
+  </tr>
+</table>
+
 
 
 <h3> 📫 How to reach me: </h3>
