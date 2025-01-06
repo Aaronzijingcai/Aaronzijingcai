@@ -4,34 +4,20 @@
 
 <br/>
 
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
+- 💻 I just graduated from ZJGSU
+- 👨‍💻 My research interests span information retrieval, data mining, and artificial general intelligence
+- 😁 Check out my personal web
+- 💬 Ask me about LLM & Finance
+- 📄 I will add a personal CV page later
+- 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 
-
-
-<table style="border-collapse: collapse; width: 100%; border: no">
-  <tr>
-    <td style="border: none; padding: 0;">
-      <ul style="list-style-type: none; padding: 0;">
-        <li>💻 I just graduated from ZJGSU</li>
-        <li>👨‍💻 My research interests span information retrieval, data mining, and artificial general intelligence</li>
-        <li>😁 Check out my <a href="https://aaronzijingcai.github.io/">personal web</a></li>
-        <li>💬 Ask me about <strong>LLM & Finance</strong></li>
-        <li>📄 I will add a personal CV page later</li>
-        <li>🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"</li>
-      </ul>
-    </td>
-    <td style="border: none; padding: 0;">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto;">
-    </td>
-  </tr>
-</table>
-
-
-
-<h3> 📫 How to reach me: </h3>
+## 📫Connect with me:
 
 <p align="left">
-    <a href="https://x.com/Zijing_Cai_"> <img src="pic/twitter.png" width="3.5%"/>
+    <a href="https://x.com/Zijing_Cai_"> <img src="pic/twitter.png" width="3.5%"/>&nbsp;
     <a href="aaron.zijingcai@gmail.com"> <img src="pic/google.png" width="3.5%"/>
 </p>&nbsp;
 
@@ -43,3 +29,4 @@
       <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaronzijingcai&theme=buefy&layout=compact" />
    </a>
 </p>
+
