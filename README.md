@@ -9,22 +9,24 @@
 - 💻I just graduated from ZJGSU
 - 👨‍💻My research interests span information retrieval, data mining, and artifical general intelligence
 - 💬 Ask me about **LLM & Finance**
-- 📫 How to reach me [gmail](aaron.zijingcai@gmail.com) 
 - 📄 I will add a personal CV page later
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
+- Check out my personal web
 
-
-
- 📫 How to reach me:
-
-<img src="https://github.com/Aaronzijingcai/Aaronzijingcai/pc/google.png" width="3.5%"/>&nbsp; 
+<br/>
 
 <a href="https://github.com/Aaronzijingcai">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Aaronzijingcai&theme=buefy&show_icons=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaronzijingcai&theme=buefy&layout=compact" />
 </a>
 
-<h3> 🤝🏻 &nbsp;Connect with me </h3>
+<br/>
+
+<h3> 📫 How to reach me: </h3>&nbsp
+
+[<img src="pic/twitter.png" width="3.5%"/>](https://x.com/Zijing_Cai_)&nbsp; <a href="aaron.zijingcai@gmail.com"> <img src="pic/google.png" width="3.5%"/>
+
+<br/>
 
 <p align="center">
 <a href="mailto:aaron.zijingcai@gmail"><img alt="Email" src="https://img.shields.io/badge/Email-aaron.zijingcai@gmail.com-blue?style=flat-square&logo=gmail"></a>
