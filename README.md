@@ -5,7 +5,7 @@
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 💻 I just graduated from ZJGSUand I am currently preparing for the postgraduate entrance examination.
+- 💻 I just graduated from ZJGSU and I am currently preparing for the postgraduate entrance examination.
 - 👨‍💻 My research interests span information retrieval, data mining, and artificial general intelligence
 - 😁 Check out my [personal web](https://aaronzijingcai.github.io/)
 - 💬 Ask me about LLM & Finance
@@ -15,8 +15,8 @@
 ## 📫Connect with me:
 
 <p align="left">
-    <a href="https://x.com/Zijing_Cai_"> <img src="pic/twitter.png" width="3.5%"/>&nbsp;
-    <a href="aaron.zijingcai@gmail.com"> <img src="pic/google.png" width="3.5%"/>
+    <a href="aaron.zijingcai@gmail.com"> <img src="pic/google.png" width="3.5%"/>&nbsp;
+    <a href="https://x.com/Zijing_Cai_"> <img src="pic/twitter.png" width="3.5%"/>
 </p>&nbsp;
 
 <p align="center">
