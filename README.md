@@ -15,14 +15,15 @@
 - 📄 I will add a personal CV page later
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 
-
-
-<h3> 📫 How to reach me: </h3>&nbsp;
-
-<p align="center">
+<h3> 📫 How to reach me: </h3>
+<p align="left">
     <a href="https://x.com/Zijing_Cai_"> <img src="pic/twitter.png" width="3.5%"/>
     <a href="aaron.zijingcai@gmail.com"> <img src="pic/google.png" width="3.5%"/>
 </p>
+
+
+
+
 
 <p align="center">
    <a href="https://github.com/Aaronzijingcai">
