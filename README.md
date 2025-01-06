@@ -8,10 +8,10 @@
 
 
 
-<table style="border: none;">
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="border: none;">
-      <ul>
+    <td style="border: none; padding: 0;">
+      <ul style="list-style-type: none; padding: 0;">
         <li>💻 I just graduated from ZJGSU</li>
         <li>👨‍💻 My research interests span information retrieval, data mining, and artificial general intelligence</li>
         <li>😁 Check out my <a href="https://aaronzijingcai.github.io/">personal web</a></li>
@@ -20,7 +20,7 @@
         <li>🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"</li>
       </ul>
     </td>
-    <td style="border: none;">
+    <td style="border: none; padding: 0;">
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto;">
     </td>
   </tr>
