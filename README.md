@@ -4,18 +4,23 @@
 
 <br/>
 
-<a target="_blank" align="center">
-  <img align="right"  height="auto" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-- 💻I just graduated from ZJGSU
-- 👨‍💻My research interests span information retrieval, data mining, and artifical general intelligence
-- 😁Check out my [personal web](https://aaronzijingcai.github.io/)
-- 💬 Ask me about **LLM & Finance**
-- 📄 I will add a personal CV page later
-- 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 
 
+
+
+<div style="display: flex; align-items: center; justify-content: center; margin: 20px;">
+  <div>
+    <ul>
+      <li>💻 I just graduated from ZJGSU</li>
+      <li>👨‍💻 My research interests span information retrieval, data mining, and artificial general intelligence</li>
+      <li>😁 Check out my <a href="https://aaronzijingcai.github.io/">personal web</a></li>
+      <li>💬 Ask me about <strong>LLM & Finance</strong></li>
+      <li>📄 I will add a personal CV page later</li>
+      <li>🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"</li>
+    </ul>
+  </div>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto; margin-left: 20px;">
+</div>
 
 <h3> 📫 How to reach me: </h3>
 
