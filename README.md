@@ -20,7 +20,8 @@
     </ul>
   </div>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto; margin-left: 20px;">
-</div>
+</div>
+
 
 <h3> 📫 How to reach me: </h3>
 
