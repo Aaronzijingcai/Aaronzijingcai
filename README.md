@@ -8,23 +8,21 @@
 
 
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="border: none; padding: 0;">
-      <ul style="list-style-type: none; padding: 0;">
-        <li>💻 I just graduated from ZJGSU</li>
-        <li>👨‍💻 My research interests span information retrieval, data mining, and artificial general intelligence</li>
-        <li>😁 Check out my <a href="https://aaronzijingcai.github.io/">personal web</a></li>
-        <li>💬 Ask me about <strong>LLM & Finance</strong></li>
-        <li>📄 I will add a personal CV page later</li>
-        <li>🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"</li>
-      </ul>
-    </td>
-    <td style="border: none; padding: 0;">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto;">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <ul style="list-style-type: none; padding: 0;">
+      <li>💻 I just graduated from ZJGSU</li>
+      <li>👨‍💻 My research interests span information retrieval, data mining, and artificial general intelligence</li>
+      <li>😁 Check out my <a href="https://aaronzijingcai.github.io/">personal web</a></li>
+      <li>💬 Ask me about <strong>LLM & Finance</strong></li>
+      <li>📄 I will add a personal CV page later</li>
+      <li>🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto;">
+  </div>
+</div>
 
 
 
