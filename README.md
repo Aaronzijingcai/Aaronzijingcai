@@ -15,6 +15,8 @@
 - 📄 I will add a personal CV page later
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - 1
+- 2
+- 3
 
 
 
