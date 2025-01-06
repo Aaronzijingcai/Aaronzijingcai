@@ -5,7 +5,7 @@
 <br/>
 
 <a target="_blank" align="center">
-  <img align="right"  height="auto" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right"  height="auto" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 💻I just graduated from ZJGSU
@@ -17,15 +17,6 @@
 
 
 
-<p align="center">
-   <a href="https://github.com/Aaronzijingcai">
-      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Aaronzijingcai&theme=buefy&show_icons=true" />
-   </a>
-   <a href="https://github.com/Aaronzijingcai">
-      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaronzijingcai&theme=buefy&layout=compact" />
-   </a>
-</p>
-
 <h3> 📫 How to reach me: </h3>&nbsp;
 
 <p align="center">
@@ -34,6 +25,10 @@
 </p>
 
 <p align="center">
-<a href="mailto:aaron.zijingcai@gmail"><img alt="Email" src="https://img.shields.io/badge/Email-aaron.zijingcai@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://aaronzijingcai.github.io/"><img alt="LinkedIn" src="https://img.shields.io/badge/Personal%20Web-Zijing%20Cai-blue?style=flat-square&logo=github"></a>
+   <a href="https://github.com/Aaronzijingcai">
+      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Aaronzijingcai&theme=buefy&show_icons=true" />
+   </a>
+   <a href="https://github.com/Aaronzijingcai">
+      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaronzijingcai&theme=buefy&layout=compact" />
+   </a>
 </p>
