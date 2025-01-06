@@ -8,9 +8,9 @@
 
 
 
-<table>
+<table style="border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <ul>
         <li>💻 I just graduated from ZJGSU</li>
         <li>👨‍💻 My research interests span information retrieval, data mining, and artificial general intelligence</li>
@@ -20,7 +20,7 @@
         <li>🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"</li>
       </ul>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" style="width: 400px; height: auto;">
     </td>
   </tr>
