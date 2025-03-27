@@ -5,7 +5,7 @@
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 💻 I just graduated from ZJGSU and I am currently preparing for the postgraduate entrance examination.
+- 💻 I am pusrsuing M.S. in USTC
 - 👨‍💻 My research interests span information retrieval, data mining, and artificial general intelligence
 - 😁 Check out my [personal web](https://aaronzijingcai.github.io/)
 - 💬 Ask me about LLM & Finance
