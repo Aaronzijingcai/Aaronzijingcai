@@ -6,11 +6,11 @@
 </a>
 
 - 💻 I am pursuing M.S. in USTC
-- 👨‍💻 My research interests span information retrieval, data mining, and artificial general intelligence
+- 👨‍💻 My research interests span large language model, agent and information retrieval
 - 😁 Check out my [personal web](https://aaronzijingcai.github.io/)
-- 💬 Ask me about LLM & Finance
+- 💬 Ask me about LLM & Agent
 - 📄 I will add a personal CV page later
-- 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
+- 🎯 Hack: "Plant the five-starred red flag on the peak of science"
 
 ## 📫Connect with me:
 
